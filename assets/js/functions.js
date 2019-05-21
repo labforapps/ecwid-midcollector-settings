@@ -1,7 +1,7 @@
 // Initialize the application
 
 	EcwidApp.init({
-	  app_id: "mid-collector", // use your application namespace
+	  app_id: "azul-payments-l4a-dev", // use your application namespace
 	  autoloadedflag: true,
 	  autoheight: true
 	});
